@@ -1,4 +1,4 @@
-# Magic_square
+# Magic_square (C#)
 A magic square of any dimension(equal sum of digits across rows, columns and two diagonals)
 
 You enter number.
